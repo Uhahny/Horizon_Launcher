@@ -21,6 +21,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Horizon_Wolfblade",
-	"newClientUrl" : "https://github.com/Uhahny/Horizon_Launcher/releases/download/1.0.0/Wolfblade.zip",
+	"newClientUrl" : "https://github.com/Uhahny/Horizon_Launcher/releases/download/1.0.0/Horizon_Wolfblade.zip",
 	"clientExecutable": "horizon.exe"
 }
